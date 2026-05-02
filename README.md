@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 📊 Passionate about Data Analytics  
+- 📊 Passionate about Data Analytics and Data Science
 - 🐍 Skilled in Python, SQL, Power BI  
 - 📈 Love turning data into meaningful insights  
 - 🌍 Open to work & willing to relocate  
